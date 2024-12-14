@@ -1,4 +1,4 @@
-package com.thesua7.map7
+package com.thesua7.map7.ui.screen
 
 import android.Manifest
 import android.annotation.SuppressLint
@@ -44,9 +44,6 @@ import com.google.android.gms.maps.CameraUpdateFactory
 import com.google.android.gms.maps.model.LatLng
 import com.google.maps.android.compose.CameraPositionState
 import com.google.maps.android.compose.rememberCameraPositionState
-import com.thesua7.map7.ui.screen.LocationScreenState
-import com.thesua7.map7.ui.screen.LocationViewModel
-import com.thesua7.map7.ui.screen.PermissionEvent
 import com.thesua7.map7.ui.screen.component.MapContainer
 import com.thesua7.map7.ui.theme.Map7Theme
 import com.thesua7.map7.util.PermissionAlert
