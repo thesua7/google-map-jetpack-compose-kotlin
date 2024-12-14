@@ -15,6 +15,7 @@ This Android application fetches the current geo-location coordinates (latitude 
 
 ## Requirements
 - Android Studio
+- Jetpack Compose
 - Google Maps API Key
 - Minimum SDK: API 24 
 - Google Play Services
